@@ -1,0 +1,9 @@
+Folder for scripts.
+
+--
+
+Files structure template:
+
+js/
+| - script.js
+| - [others *.js files]

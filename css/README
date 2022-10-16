@@ -1,0 +1,9 @@
+Folder for styles files.
+
+--
+
+Files structure template:
+
+css/
+| - style.css
+| - [others *.css files]
